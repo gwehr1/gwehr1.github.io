@@ -4,8 +4,8 @@ As Professor Lovell liked to tell us in ELEC4630 at UQ,
 > "Blogging helps you learn!"
 
 ## Purpose
-While this blog was created to help me with my understanding, I've documented several issues that I've faced throughout my journey with AI, which hopefully may also even help *you*, should you happen to come across similar issues :smile:
-If you have time, you should definitely check out fast.ai - it's a fantastic course that makes deep learning accessible to everyone :dizzy:
+While this blog was created to help me with my understanding, I've documented several issues that I've faced throughout my journey with AI, which hopefully may also even help *you*, should you happen to come across similar issues 😄
+If you have time, you should definitely check out fast.ai - it's a fantastic course that makes deep learning accessible to everyone 💫
 
 ![Image of fast.ai logo](images/logo.png)
 
