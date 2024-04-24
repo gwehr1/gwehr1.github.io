@@ -10,6 +10,8 @@ The key import is:
 ```
 from duckduckgo_search import DDGS
 ```
+> [!NOTE]
+> The library has recently been updated. This used to be ddg_images, rather than DDGS.
 
 Then the key command (passing in a search term and max number of images) to call is:
 ```
