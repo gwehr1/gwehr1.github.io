@@ -2,6 +2,7 @@
 
 Hi, I'm Gabby! 
 
+![Bio Photo](images/bio_photo_bigger.jpg)
 
 #### What I'm up to:
 I'm a student at UQ, currently in my 6th and final year of a dual Electrical and Computer Engineering & Biomedical Science degree.
